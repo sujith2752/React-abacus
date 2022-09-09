@@ -1,0 +1,23 @@
+h1,
+p {
+  font-family: Lato;
+
+}
+
+.heading {
+  text-align: center;
+  background-color: brown;
+  color: White;
+  font-size: 25px;
+}
+
+input {
+  text-align: center;
+  height: 30px;
+  width: 240px;
+}
+.admin {
+  font-size: 20px;
+  color: black;
+  font-weight: bold;
+}
